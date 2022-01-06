@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    margin: 20px 10px;
+}
+
+.color-txt{
+    color: darkcyan;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+.head-text{
+    width: 40%;
+    padding: 50px 0;
+    
+}
+.head-title{
+    font-size: 30px;
+    border-left: 2px solid darkcyan;
+    padding-left: 15px;
+}
+.para-all{
+    padding: 30px 0;
+    color: rgb(73, 72, 72);
+}
+.btn{
+    padding: 10px 16px;
+    background-color: 	#990000;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.head-img{
+    width: 30%;
+}
+.head-img img{
+    width: 85%;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+
+.{}
+.{}
+.{}
+
