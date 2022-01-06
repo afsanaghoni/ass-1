@@ -83,11 +83,16 @@ p{
 .limit{
     background-image: url(images/shape-1.png);
     background-repeat: no-repeat;
-    background-position: 280px;
+    background-position: 250px;
     background-size: contain;
 }
 
-.{}
+.bgsap{ 
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
 .{}
 
 .{}
