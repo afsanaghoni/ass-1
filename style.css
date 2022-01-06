@@ -7,7 +7,7 @@
     font-family: 'Roboto', sans-serif;
 }
 section{
-    margin: 20px 10px;
+    margin: 20px 50px;
 }
 
 .color-txt{
@@ -16,7 +16,7 @@ section{
 
 .flex{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .head-text{
     width: 40%;
@@ -28,9 +28,10 @@ section{
     border-left: 2px solid darkcyan;
     padding-left: 15px;
 }
-.para-all{
+p{
     padding: 30px 0;
     color: rgb(73, 72, 72);
+    text-align: justify;
 }
 .btn{
     padding: 10px 16px;
@@ -46,9 +47,27 @@ section{
 .head-img img{
     width: 85%;
 }
-.{}
-.{}
-.{}
+.title{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.container-mision div{
+    width: 30%;
+    border-radius: 10px;
+    padding: 15px;
+}
+.container-mision div img{
+    width: 150px;
+}
+#mission{
+    background-color: bisque;
+}
+#vission{
+    background-color: rgb(238, 192, 234);
+}
+#goal{
+    background-color: rgb(192, 207, 240);
+}
 .{}
 .{}
 .{}
